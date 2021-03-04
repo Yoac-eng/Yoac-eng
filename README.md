@@ -2,7 +2,7 @@
 
 ![yoac_bann](https://user-images.githubusercontent.com/78568298/110035198-1cc18b80-7d1a-11eb-9fce-9bbed382229d.jpeg)<br/>
  
- 📚 I’m currently studying on Universidade Estadual do Maranhão(UEMA)<br/>
+ 📚 Computer engineering student on Universidade Estadual do Maranhão(UEMA)<br/>
  🎯 Learning <br/>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)<br/>
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)<br/>
