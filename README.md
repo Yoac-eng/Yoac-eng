@@ -6,3 +6,4 @@
  🎯 Learning HTML, CSS, JAVASCRIPT, SQL, NODE, REACT<br/>
  📫 How to reach me: cayocutrim1991@gmail.com<br/>
  🎆 Fun fact: É biscoito não bolacha.<br/>
+<a href="https://www.linkedin.com/in/cayo-cutrim-8239a4205/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a><br/>
