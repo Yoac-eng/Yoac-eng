@@ -2,7 +2,10 @@
  
 <b>I'm Cayo - </b>
 I'm a frontend developer, computer engineering student at UEMA and on my way to become a fullstack developer. <br/>
- Also an avarage JavaScript enjoyer :pray: 📚 <br/>
+ And ill be sharing my personal projects and progress here!<br/>
+ <br/>
+ <b><i>Also an avarage JavaScript and dogs enjoyer :pray: 📚 </i></b><br/>
+ 
 
  <div style="display: inline_block"> <br/> 
   <h4>Techs i use:</h4>
