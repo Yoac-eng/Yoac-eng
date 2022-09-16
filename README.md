@@ -1,13 +1,17 @@
-
-
-![yoac_bann](https://user-images.githubusercontent.com/78568298/110035198-1cc18b80-7d1a-11eb-9fce-9bbed382229d.jpeg)<br/>
+# Greetings ! 
  
- 📚 Computer engineering student on Universidade Estadual do Maranhão(UEMA)<br/>
- 🎯 Learning <br/>
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)<br/>
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)<br/>
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)<br/>
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)<br/>
- 📫 How to reach me: cayocutrim1991@gmail.com<br/>
-<a href="https://www.linkedin.com/in/cayo-cutrim-8239a4205/"><img src="linkedin.svg" alt="LinkedIn"></a><br/>
-🇧🇷
+<b>I'm Cayo - </b>
+I'm a frontend developer, computer engineering student at UEMA and on my way to become a fullstack developer. <br/>
+ Also an avarage JavaScript enjoyer :pray: 📚 <br/>
+
+ <div style="display: inline_block"> <br/> 
+  <h4>Techs i use:</h4>
+  <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+ </div>
+
