@@ -4,7 +4,7 @@
 I'm a frontend developer, computer engineering student at UEMA and on my way to become a fullstack developer. <br/>
  And ill be sharing my personal projects and progress here!<br/>
  <br/>
- <b><i>Also an avarage JavaScript and dogs enjoyer :pray: 📚 </i></b><br/>
+ <b><i>Also an average JavaScript and dogs enjoyer :pray: 📚 </i></b><br/>
  
 
  <div style="display: inline_block"> <br/> 
