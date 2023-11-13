@@ -4,8 +4,6 @@
 I'm a back-end developer, with also front-end dev experience and a computer engineering student at UEMA and on my way to become a fullstack developer. <br/>
  And ill be sharing my personal projects and progress here!<br/>
  <br/>
- <b><i>and i do like javascript and java at the same time, for real</i></b><br/>
- 
 
  <div style="display: inline_block"> <br/> 
   <h4>Techs i use:</h4>
