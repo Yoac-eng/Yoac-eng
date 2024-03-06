@@ -1,12 +1,11 @@
 # Greetings ! 
  
 <b>I'm Cayo - </b>
-I'm a back-end developer, with also front-end dev experience and a computer engineering student at UEMA and on my way to become a fullstack developer. <br/>
- And ill be sharing my personal projects and progress here!<br/>
+a dedicated back-end developer with front-end development skills, currently pursuing a degree in Computer Engineering at UEMA. My journey is steering me towards becoming a full-stack developer. Here, I'll be showcasing my personal projects and documenting my progress in the tech world.<br/>
  <br/>
 
  <div style="display: inline_block"> <br/> 
-  <h4>Techs i use:</h4>
+  <h4>Technologies I'm proficient in:</h4>
   
  <p> Front end: </p>
   <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
